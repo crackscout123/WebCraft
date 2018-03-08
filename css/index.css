@@ -1,0 +1,12 @@
+.top {
+  /*Background Image*/
+  	background-image: url("../img/background.jpg");
+  	height: 750px;
+  	width: auto;
+  	text-align: center;
+  	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+
+  }
